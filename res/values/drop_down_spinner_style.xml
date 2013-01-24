@@ -1,0 +1,12 @@
+<resources>
+    <style name="my_ics_spiner_style">
+        <item name="android:dropDownWidth">fill_parent</item>
+        <item name="android:alignmentMode">alignBounds</item>
+        <item name="android:dividerHeight">4dp</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:scrollbarAlwaysDrawVerticalTrack">false</item>
+        <item name="android:scrollbarTrackVertical">@android:color/transparent</item>
+        <item name="android:dropDownSelector">@android:color/white</item>
+        <item name="android:requiresFadingEdge">none</item>
+    </style>
+</resources>

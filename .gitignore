@@ -1,0 +1,6 @@
+# for intellij
+.idea/
+*.iml
+out/
+local.properties
+ant.properties
